@@ -1,0 +1,2 @@
+This is a secret message that should not be readable after encryption.
+AES is powerful and easy to use with Python's cryptography library.
